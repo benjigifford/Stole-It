@@ -5,7 +5,7 @@ Designed to capture, transcribe, store, and analyze customer conversations, this
 
 ## Project Structure
 
-stoleit_portal/
+stole-it/
 
 │
 
